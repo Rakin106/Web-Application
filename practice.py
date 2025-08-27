@@ -6,3 +6,5 @@ def hello_world():
 
 def add(a, b):
     return a + b
+
+# TODO: practice more Python functions

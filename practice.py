@@ -10,3 +10,5 @@ def add(a, b):
 # TODO: practice more Python functions
 
 # TODO: practice more Python functions
+
+print('Learning GitHub commits')

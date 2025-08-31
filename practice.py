@@ -18,3 +18,7 @@ print('Learning GitHub commits')
 def add(a, b):
 
 
+try:
+    print(10/2)
+except Exception as e:
+    print('error', e)

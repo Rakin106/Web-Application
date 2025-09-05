@@ -17,3 +17,5 @@ try:
     print(10/2)
 except Exception as e:
     print('error', e)
+def divide(a, b):
+    return a / b if b else None

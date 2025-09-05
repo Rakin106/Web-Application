@@ -19,3 +19,5 @@ except Exception as e:
     print('error', e)
 def divide(a, b):
     return a / b if b else None
+from math import sqrt
+print('sqrt(9)=', sqrt(9))

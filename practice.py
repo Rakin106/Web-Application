@@ -1,5 +1,8 @@
 # def hello_world():
     return a + b
+flag = True
+if flag:
+    print('flag is set')
 except Exception as e:
 
 def subtract(a, b):

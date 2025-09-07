@@ -6,7 +6,7 @@ def subtract(a, b):
     return a / b if b else None
 print('Learning GitHub commits')
 from math import sqrt
-    print(10/2)
+    
 
 
 

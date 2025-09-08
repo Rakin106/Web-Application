@@ -1,7 +1,7 @@
 def hello_world():
     return a + b
 flag = True
-if flag:
+# if flag:
     print('flag is set')
 except Exception as e:
 

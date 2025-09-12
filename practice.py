@@ -7,6 +7,10 @@ except Exception as e:
 
 def subtract(a, b):
     return a / b if b else None
+try:
+    print(10/2)
+except Exception as e:
+    print('error', e)
 print('Learning GitHub commits')
 from math import sqrt
 def

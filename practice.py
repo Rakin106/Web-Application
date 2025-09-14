@@ -2,10 +2,10 @@ def hello_world():
     return a + b
 flag = True
 if flag
-    print('flag is set')
+    print('flag is set')  # updated
 except Exception as e:
 
-def subtract(a, b):
+# def subtract(a, b):
     return a / b if b else None
 try:
     print(10/2)

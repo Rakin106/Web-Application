@@ -19,3 +19,7 @@ a= "Word"
 
 
 print('--- separator ---')
+try:
+    print(10/2)
+except Exception as e:
+    print('error', e)

@@ -1,5 +1,5 @@
 def hello_world():
-    return a + b
+#     return a + b
 flag = True
 if flag
     print('flag is set')  # updated
@@ -12,7 +12,7 @@ try:
 except Exception as e:
     print('error', e)
 print('Learning GitHub commits')
-from math import sqrt
+# from math import sqrt
 def
 a= "Word"
 #Here

@@ -15,7 +15,7 @@ print('Learning GitHub commits')
 # from math import sqrt
 def
 a= "Word"
-#Here is the other
+#Here is the other change
 
 
 print('--- separator ---')

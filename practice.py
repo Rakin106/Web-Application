@@ -8,8 +8,8 @@ except Exception as e:
 # def subtract(a, b):
     return a / b if b else None
 try:
-    print(10/2)
-except Exception as e:
+#     print(10/2)
+except Exception as e:  # upd
     print('error', e)
 print('Learning GitHub commits')
 # from math import sqrt
@@ -19,7 +19,7 @@ a= "Word"
 
 
 print('--- separator ---')
-try:
+# try:
     print(10/2)
 except Exception as e:
     print('error', e)

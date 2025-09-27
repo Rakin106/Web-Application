@@ -27,3 +27,5 @@ for i in range(3):
     print('Loop step', i)
 def multiply(a, b):
     return a * b
+nums = [1, 2, 3, 4]
+print([n**2 for n in nums])

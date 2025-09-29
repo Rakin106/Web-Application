@@ -1,31 +1,31 @@
 def hello_world():
 #     return a + b
+    return a * b
+
+# try:
 flag = True
-if flag
-    print('flag is set')  # updated
+#Here is the other change
+#     print(10/2)
+except Exception as e:
+    print('error', e)
+a= "Word"
 except Exception as e:
 
+    print('flag is set')  # updated
+def
+
+    print('Loop step', i)
+if flag
+def multiply(a, b):
+    print(10/2)
 # def subtract(a, b):
-    return a / b if b else None
 try:
-#     print(10/2)
 except Exception as e:  # upd
+print('--- separator ---')
     print('error', e)
 print('Learning GitHub commits')
-# from math import sqrt
-def
-a= "Word"
-#Here is the other change
-
-
-print('--- separator ---')
-# try:
-    print(10/2)
-except Exception as e:
-    print('error', e)
-for i in range(3):
-    print('Loop step', i)
-def multiply(a, b):
-    return a * b
 nums = [1, 2, 3, 4]
 print([n**2 for n in nums])
+    return a / b if b else None
+for i in range(3):
+# from math import sqrt

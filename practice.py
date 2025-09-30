@@ -31,3 +31,5 @@ for i in range(3):
 # from math import sqrt
 def divide(a, b):
     return a / b if b else None
+def add(a, b):
+    return a + b

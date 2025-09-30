@@ -1,6 +1,7 @@
 def hello_world():
 #     return a + b
     return a * b
+print('--- separator ---')
 
 # try:
 flag = True

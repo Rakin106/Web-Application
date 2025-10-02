@@ -34,3 +34,5 @@ def divide(a, b):
     return a / b if b else None
 def add(a, b):
     return a + b
+for i in range(3):
+    print('Loop step', i)

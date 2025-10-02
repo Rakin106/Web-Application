@@ -22,7 +22,7 @@ def multiply(a, b):
 # def subtract(a, b):
 try:
 except Exception as e:  # upd
-print('--- separator ---')
+# print('--- separator ---')
     print('error', e)
 print('Learning GitHub commits')
 nums = [1, 2, 3, 4]

@@ -17,6 +17,7 @@ def
 
     print('Loop step', i)
 if flag
+print('Learning GitHub commits')
 def multiply(a, b):
     print(10/2)
 # def subtract(a, b):

@@ -5,6 +5,8 @@ print('--- separator ---')
 
 # try:
 flag = True
+msg = 'commit test'
+print(msg.upper())
 #Here is the other change
 #     print(10/2)
 except Exception as e:

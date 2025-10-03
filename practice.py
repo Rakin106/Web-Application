@@ -29,6 +29,8 @@ except Exception as e:  # upd
 # print('--- separator ---')
     print('error', e)
 print('Learning GitHub commits')
+def multiply(a, b):
+    return a * b
 nums = [1, 2, 3, 4]
 print([n**2 for n in nums])
     return a / b if b else None

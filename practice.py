@@ -42,3 +42,5 @@ def add(a, b):
     return a + b
 for i in range(3):
     print('Loop step', i)
+def multiply(a, b):
+    return a * b

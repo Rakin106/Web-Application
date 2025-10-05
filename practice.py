@@ -10,14 +10,14 @@ print(msg.upper())
 #Here is the other change
 #     print(10/2)
 #     print(10/2)
-except Exception as e:
+
     print('error', e)
 a= "Word"
 except Exception as e:
 
     print('flag is set')  # updated
 def
-
+except Exception as e:
     print('Loop step', i)
 if flag
 print('Learning GitHub commits')

@@ -1,46 +1,46 @@
 def hello_world():
 #     return a + b
-    return a * b
-# print('--- separator ---')
-
-# try:
-flag = True
-msg = 'commit test'
-print(msg.upper())
-#Here is the other change
-#     print(10/2)
-#     print(10/2)
-
-    print('error', e)
-a= "Word"
-except Exception as e:
-
-    print('flag is set')  # updated
-def
-except Exception as e:
-    print('Loop step', i)
-if flag
-print('Learning GitHub commits')
-def multiply(a, b):
-    print(10/2)
+print([n**2 for n in nums])
 # def subtract(a, b):
-try:
-except Exception as e:  # upd
-# print('--- separator ---')
-    print('error', e)
-print('Learning GitHub commits')
-def multiply(a, b):
+if flag
     return a * b
 nums = [1, 2, 3, 4]
-print([n**2 for n in nums])
-    return a / b if b else None
-for i in range(3):
-# from math import sqrt
-def divide(a, b):
-    return a / b if b else None
-def add(a, b):
+print(msg.upper())
+except Exception as e:  # upd
+# try:
     return a + b
 for i in range(3):
-    print('Loop step', i)
-def multiply(a, b):
+
+for i in range(3):
+def
+def add(a, b):
+def divide(a, b):
+    print('flag is set')  # updated
+    return a / b if b else None
     return a * b
+# from math import sqrt
+def multiply(a, b):
+    return a / b if b else None
+a= "Word"
+except Exception as e:
+#     print(10/2)
+    return a * b
+    print('Loop step', i)
+print('Learning GitHub commits')
+
+    print('error', e)
+#     print(10/2)
+    print('error', e)
+def multiply(a, b):
+    print('Loop step', i)
+# print('--- separator ---')
+flag = True
+print('Learning GitHub commits')
+# print('--- separator ---')
+try:
+
+def multiply(a, b):
+    print(10/2)
+except Exception as e:
+msg = 'commit test'
+#Here is the other change

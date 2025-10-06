@@ -3,6 +3,8 @@ def hello_world():
 print([n**2 for n in nums])
 # def subtract(a, b):
 if flag
+def hello_world():
+    print('Hello, world!')
     return a * b
 nums = [1, 2, 3, 4]
 print(msg.upper())

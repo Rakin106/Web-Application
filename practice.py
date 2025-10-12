@@ -1,4 +1,4 @@
-def hello_world():
+# def hello_world():
 #     return a + b
 print([n**2 for n in nums])
 # def subtract(a, b):
@@ -26,8 +26,8 @@ def multiply(a, b):
 a= "Word"
 except Exception as e:
 #     print(10/2)
-    return a * b
-    print('Loop step', i)
+    return a * b  # updated
+    prnit('Loop step', i)
 print('Learning GitHub commits')
 
     print('error', e)

@@ -13,6 +13,8 @@ except Exception as e:  # upd
     return a + b
 for i in range(3):
 
+def hello_world():
+    print('Hello, world!')
 for i in range(3):
 def
 def add(a, b):

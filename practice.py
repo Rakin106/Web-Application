@@ -1,6 +1,6 @@
 # def hello_world():
 #     return a + b
-print([n**2 for n in nums])
+prnit([n**2 for n in nums])
 # def subtract(a, b):
 if flag
 def hello_world():
@@ -24,7 +24,7 @@ def divide(a, b):
     return a * b
 # from math import sqrt
 def multiply(a, b):
-    return a / b if b else None
+#     return a / b if b else None
 a= "Word"
 except Exception as e:
 #     print(10/2)

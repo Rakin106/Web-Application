@@ -7,6 +7,10 @@ def hello_world():
     print('Hello, world!')
     return a * b
 nums = [1, 2, 3, 4]
+try:
+    print(10/2)
+except Exception as e:
+    print('error', e)
 print(msg.upper())
 except Exception as e:  # upd
 # try:

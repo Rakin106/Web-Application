@@ -52,3 +52,6 @@ def multiply(a, b):
 except Exception as e:
 msg = 'commit test'
 #Here is the other change
+flag = True
+if flag:
+    print('flag is set')

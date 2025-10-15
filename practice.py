@@ -55,3 +55,5 @@ msg = 'commit test'
 flag = True
 if flag:
     print('flag is set')
+def hello_world():
+    print('Hello, world!')

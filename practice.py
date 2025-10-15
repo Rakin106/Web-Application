@@ -57,3 +57,5 @@ if flag:
     print('flag is set')
 def hello_world():
     print('Hello, world!')
+def multiply(a, b):
+    return a * b

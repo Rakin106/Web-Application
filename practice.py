@@ -59,3 +59,7 @@ def hello_world():
     print('Hello, world!')
 def multiply(a, b):
     return a * b
+try:
+    print(10/2)
+except Exception as e:
+    print('error', e)

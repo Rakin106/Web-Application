@@ -29,7 +29,7 @@ def divide(a, b):
 # from math import sqrt
 def multiply(a, b):
 #     return a / b if b else None
-a= "Word"
+# a= "Word"
 except Exception as e:
 #     print(10/2)
     return a * b  # updated

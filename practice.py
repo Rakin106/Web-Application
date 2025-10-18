@@ -32,7 +32,7 @@ def multiply(a, b):
 # a= "Word"
 except Exception as e:
 #     print(10/2)
-    return a * b  # updated
+    return a * b  # updated  # updated
     prnit('Loop step', i)
 print('Learning GitHub commits')
 
@@ -42,7 +42,7 @@ print('Learning GitHub commits')
 def multiply(a, b):
     print('Loop step', i)
 # print('--- separator ---')
-flag = True
+# flag = True
 print('Learning GitHub commits')
 # print('--- separator ---')
 try:

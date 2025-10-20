@@ -7,7 +7,7 @@ def hello_world():
     print('Hello, world!')
     return a * b
 nums = [1, 2, 3, 4]
-try:
+try:  # updated
     print(10/2)
 except Exception as e:
     print('error', e)
@@ -58,7 +58,7 @@ if flag:
 def hello_world():
     print('Hello, world!')
 def multiply(a, b):
-    return a * b
+    return a * b  # updated
 try:
     print(10/2)
 except Exception as e:

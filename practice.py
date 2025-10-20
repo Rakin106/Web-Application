@@ -25,7 +25,7 @@ def add(a, b):
 def divide(a, b):
     print('flag is set')  # updated
     return a / b if b else None
-    return a * b
+    return a * b  # updated
 # from math import sqrt
 def multiply(a, b):
 #     return a / b if b else None
@@ -50,7 +50,7 @@ try:
 def multiply(a, b):
     print(10/2)
 except Exception as e:
-msg = 'commit test'
+msg = 'commit test'  # updated
 #Here is the other change
 flag = True
 if flag:

@@ -65,3 +65,5 @@ try:
     print(10/2)
 except Exception as e:
     print('error', e)
+def add(a, b):
+    return a + b

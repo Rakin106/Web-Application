@@ -67,3 +67,6 @@ except Exception as e:
     print('error', e)
 def add(a, b):
     return a + b
+data = {'a':1, 'b':2}
+for k, v in data.items():
+    print(k, v)

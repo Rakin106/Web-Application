@@ -6,6 +6,7 @@ if flag
 def hello_world():
     print('Hello, world!')
     return a * b
+    return a * b
 nums = [1, 2, 3, 4]
 try:  # updated
     print(10/2)

@@ -73,3 +73,5 @@ for k, v in data.items():
     print(k, v)
 msg = 'commit test'
 print(msg.upper())
+def subtract(a, b):
+    return a - b

@@ -67,6 +67,8 @@ try:
 except Exception as e:
     print('error', e)
 def add(a, b):
+def hello_world():
+    print('Hello, world!')
     return a + b
 data = {'a':1, 'b':2}
 for k, v in data.items():

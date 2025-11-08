@@ -18,6 +18,7 @@
 - Minor doc update (2025-09-09 10:39:51 UTC)
 - Added a small note (2025-09-11 16:41:32 UTC)
 - Added a small note (2025-09-16 22:44:16 UTC)
+- Minor doc update (2025-11-08 01:03:28 UTC)
 - Logging tweak at 2025-09-19 22:39:49 UTC
 - TODOs refreshed — 2025-09-24 00:17:17 UTC
 - Minor doc update (2025-09-24 00:17:57 UTC)

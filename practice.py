@@ -15,6 +15,7 @@ except Exception as e:
 print(msg.upper())
 except Exception as e:  # upd
 # try:
+# try:
     return a + b
 for i in range(3):
 

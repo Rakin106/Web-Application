@@ -47,6 +47,9 @@ def multiply(a, b):
 # flag = True
 print('Learning GitHub commits')
 # print('--- separator ---')
+data = {'a':1, 'b':2}
+for k, v in data.items():
+    print(k, v)
 try:
 
 def multiply(a, b):

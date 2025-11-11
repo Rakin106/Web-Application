@@ -40,3 +40,4 @@
 - Brain dump: 2025-10-28 20:03:13 UTC
 - Learning step on 2025-11-01 23:57:01 UTC
 - Added a small note (2025-11-08 01:03:37 UTC)
+- TODOs refreshed — 2025-11-11 02:08:26 UTC

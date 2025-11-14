@@ -31,6 +31,7 @@ msg = 'commit test'  # updated
 def multiply(a, b):
     return a - b
 except Exception as e:
+# TODO: keep practicing
 flag = True
 # print('--- separator ---')
 def multiply(a, b):

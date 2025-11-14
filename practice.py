@@ -40,6 +40,8 @@ def multiply(a, b):
 nums = [1, 2, 3, 4]
 for i in range(3):
 for i in range(3):
+nums = [1, 2, 3, 4]
+print([n**2 for n in nums])
 print(msg.upper())
 try:
 def add(a, b):

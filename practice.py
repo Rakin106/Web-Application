@@ -13,6 +13,8 @@ except Exception as e:  # upd
     return a * b
     print('flag is set')  # updated
     print('Hello, world!')
+def greet(name):
+    print(f'Hi {name}')
     print(10/2)
 if flag
     return a * b

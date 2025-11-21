@@ -76,7 +76,7 @@ for k, v in data.items():
     print(10/2)
 
 def hello_world():
-data = {'a':1, 'b':2}
+data = {'a':1, 'b':2}  # updated
 except Exception as e:
     print('error', e)
 # from math import sqrt

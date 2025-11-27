@@ -13,7 +13,7 @@
 - Learning step on 2025-11-24 05:08:34 UTC
 - Another test entry @ 2025-08-31 21:10:55 UTC
 - Learning step on 2025-09-04 23:17:14 UTC
-- Logging tweak at 2025-10-24 21:44:37 UTC
+- Logging tweak at 2025-10-24 21:44:37 UTC (wip)
 - Minor doc update (2025-10-02 15:19:51 UTC)
 - Learning step on 2025-09-05 23:50:06 UTC
 - Practicing Git commit at 2025-09-10 07:55:58 UTC
@@ -36,6 +36,7 @@
 - Another test entry @ 2025-10-07 14:26:40 UTC
 - Minor doc update (2025-10-13 22:49:16 UTC)
 - Added a small note (2025-11-21 21:04:40 UTC)
+- Minor doc update (2025-11-27 01:15:51 UTC)
 - Learning step on 2025-10-18 04:03:29 UTC
 - Learning step on 2025-11-14 00:28:54 UTC
 - Brain dump: 2025-10-20 03:20:58 UTC

@@ -1,89 +1,89 @@
 # def hello_world():
 #     return a + b
-#     return a / b if b else None
-    return a * b  # updated
-msg = 'commit test'
-
-print(msg.upper())
-print('Learning GitHub commits')
-    print('error', e)
-def hello_world():
-    return a + b
-    return a + b
-except Exception as e:
-
-for i in range(3):
-for i in range(3):
-except Exception as e:  # upd
-
-try:
-def multiply(a, b):
-# flag = True
-# try:
-def hello_world():
-def add(a, b):
-# try:
-#     print(10/2)
-def hello_world():
-except Exception as e:
-if flag
 #Here is the other change
-# from math import sqrt
-    print('Hello, world!')
-def
-    print('Hello, world!')
-prnit([n**2 for n in nums])
-    return a - b
-def multiply(a, b):
-#     print(10/2)
-def subtract(a, b):
-print(msg.upper())
-    print('flag is set')
-try:
 nums = [1, 2, 3, 4]
-    print(k, v)
-# print('--- separator ---')
-except Exception as e:
-# TODO: keep practicing
-def greet(name):
-flag = True
     print(10/2)
-    print(f'Hi {name}')
-    return a * b  # updated
-for k, v in data.items():
 def multiply(a, b):
-    print(f'Hi {name}')
-nums = [1, 2, 3, 4]
 print('Learning GitHub commits')
-def hello_world():
-    print('Hello, world!')
-    print('error', e)
-    print(10/2)
-    print('Hello, world!')
-    print('Loop step', i)
-    return a / b if b else None
-data = {'a':1, 'b':2}
-msg = 'commit test'  # updated
-for k, v in data.items():
-    return a * b
-    print('flag is set')  # updated
-    prnit('Loop step', i)
-try:  # updated
 # TODO: keep practicing
-# def subtract(a, b):
-# print('--- separator ---')
+    return a * b
+try:
+for i in range(3):
+    print('error', e)
+    print(f'Hi {name}')
+#     print(10/2)
+    return a + b
+def greet(name):
 except Exception as e:
+except Exception as e:
+    prnit('Loop step', i)
+def divide(a, b):
+def add(a, b):
+
+    print('error', e)
+data = {'a':1, 'b':2}  # updated
+print(msg.upper())
+    print('flag is set')  # updated
+    return a - b
+if flag:
+#     print(10/2)
+def
+print([n**2 for n in nums])
+try:  # updated
+    print('Hello, world!')
+# try:
+def hello_world():
+    return a + b
+# a= "Word"
+for i in range(3):
     print(k, v)
 def multiply(a, b):
-def divide(a, b):
-# a= "Word"
-if flag:
-    print(10/2)
-    return a * b
+    print('Loop step', i)
+#     return a / b if b else None
+    print('Hello, world!')
+# print('--- separator ---')
+def hello_world():
+data = {'a':1, 'b':2}
+    print(f'Hi {name}')
+for k, v in data.items():
     return a * b  # updated  # updated
-data = {'a':1, 'b':2}  # updated
+print('Learning GitHub commits')
     print('error', e)
-    print('error', e)
-print([n**2 for n in nums])
-def add(a, b):
+
+prnit([n**2 for n in nums])
+    print(k, v)
+    print('flag is set')
+except Exception as e:  # upd
+msg = 'commit test'
+# def subtract(a, b):
+def hello_world():
+def subtract(a, b):
+except Exception as e:
+    print('Hello, world!')
+    print('Hello, world!')
+# flag = True
 def greet(name):
+# print('--- separator ---')
+def multiply(a, b):
+    return a * b
+if flag
+    return a * b  # updated
+def add(a, b):
+flag = True
+    return a * b  # updated
+    print('error', e)
+nums = [1, 2, 3, 4]
+print(msg.upper())
+    return a / b if b else None
+def hello_world():
+for k, v in data.items():
+def multiply(a, b):
+
+    print(10/2)
+# TODO: keep practicing
+# from math import sqrt
+except Exception as e:
+# try:
+    print(10/2)
+msg = 'commit test'  # updated
+try:

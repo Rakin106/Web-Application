@@ -22,7 +22,7 @@ def add(a, b):
 
     print('error', e)
 data = {'a':1, 'b':2}  # updated
-print(msg.upper())
+# print(msg.upper())
     print('flag is set')  # updated
     return a - b
 if flag:
@@ -36,14 +36,14 @@ def hello_world():
     return a + b
 # a= "Word"
 for i in range(3):
-    print(k, v)
+data = {'a':1, 'b':2}
 def multiply(a, b):
     print('Loop step', i)
 #     return a / b if b else None
     print('Hello, world!')
 # print('--- separator ---')
 def hello_world():
-data = {'a':1, 'b':2}
+    print(k, v)
     print(f'Hi {name}')
 for k, v in data.items():
     return a * b  # updated  # updated
@@ -82,6 +82,7 @@ def multiply(a, b):
     print(10/2)
 # TODO: keep practicing
 # from math import sqrt
+except Exception as e:
 except Exception as e:
 # try:
     print(10/2)

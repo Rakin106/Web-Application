@@ -1,5 +1,6 @@
 # def hello_world():
 #     return a + b
+#     return a + b
 #Here is the other change
 nums = [1, 2, 3, 4]
     print(10/2)
@@ -74,6 +75,7 @@ flag = True
     print('error', e)
 nums = [1, 2, 3, 4]
 print(msg.upper())
+print(msg.upper())
     return a / b if b else None
 def hello_world():
 for k, v in data.items():
@@ -85,7 +87,7 @@ def multiply(a, b):
 def add(a, b):
     return a + b
 except Exception as e:
-except Exception as e:
+except Exception as e:  # upd
 # try:
     print(10/2)
 msg = 'commit test'  # updated

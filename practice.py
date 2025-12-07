@@ -86,7 +86,7 @@ def multiply(a, b):
 # from math import sqrt
 def add(a, b):
     return a + b
-except Exception as e:
+# except Exception as e:
 except Exception as e:  # upd
 # try:
     print(10/2)

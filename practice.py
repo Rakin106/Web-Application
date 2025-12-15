@@ -14,6 +14,10 @@ for i in range(3):
     print(f'Hi {name}')
 #     print(10/2)
     return a + b
+try:
+    print(10/2)
+except Exception as e:
+    print('error', e)
 def greet(name):
 except Exception as e:
 except Exception as e:

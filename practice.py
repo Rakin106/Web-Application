@@ -15,6 +15,8 @@ for i in range(3):
 #     print(10/2)
     return a + b
 try:
+def multiply(a, b):
+    return a * b
     print(10/2)
 except Exception as e:
     print('error', e)

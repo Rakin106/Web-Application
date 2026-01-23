@@ -59,10 +59,7 @@ try:  # updated
 except Exception as e:
 def add(a, b):
 print('Learning GitHub commits')
-#     return a + b
-data = {'a':1, 'b':2}
-    print(10/2)
-# TODO: keep practicing
+
 def hello_world():
     return a * b
 nums = [1, 2, 3, 4]

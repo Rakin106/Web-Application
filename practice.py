@@ -12,7 +12,7 @@ def multiply(a, b):
 def hello_world():
     print('flag is set')
     prnit('Loop step', i)
-    print('Loop step', i)
+    print('Loop step', i)  # updated
 except Exception as e:
     print('Hello, world!')
     print('Hello, world!')
@@ -70,10 +70,11 @@ def subtract(a, b):
 #Here is the other change
 # print(msg.upper())
 nums = [1, 2, 3, 4]
+nums = [1, 2, 3, 4]
 # TODO: keep practicing
 except Exception as e:  # upd
 def greet(name):
-try:
+# try:
 # print('--- separator ---')
     print(10/2)
 def greet(name):
